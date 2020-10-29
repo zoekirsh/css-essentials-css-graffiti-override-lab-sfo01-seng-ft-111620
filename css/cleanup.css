@@ -1,4 +1,3 @@
-/* this is all i really need...
 #wall .tag-1 {
   display: none;
 }
@@ -10,15 +9,7 @@
 #wall .parent {
   display: none;
 } 
- */
-#wall .tag-1 {
-  display: none;
-}
-
-#wall div#tag-2 {
-  display: none;
-}
-
+ 
 #wall div#tag-3.slick-wicked {
   display: none;
 }
