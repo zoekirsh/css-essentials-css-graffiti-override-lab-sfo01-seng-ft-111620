@@ -27,4 +27,15 @@
   display: none;
 }
 
+#wall .parent .slick {
+  display: none;
+}
+
+#wall .parent div div#tag-6 {
+  display:none;
+}
+
+#wall .parent div div#tag-7 {
+  display: none;
+}
 
